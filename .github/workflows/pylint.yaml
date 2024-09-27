@@ -28,4 +28,4 @@ jobs:
 
       - name: Run Pylint
         run: |
-          pylint code-standard --rcfile=.pylintrc
+          pylint . --rcfile=.pylintrc
