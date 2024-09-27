@@ -1,7 +1,3 @@
-"""
-_summary_
-"""
-
 if __name__ == "__main__":
     S: str = (
         "This is just some random text, there will be giberish asdf asdf"
