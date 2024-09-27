@@ -13,6 +13,7 @@ if __name__ == "__main__":
     FAIL = (
         "This will be longer and unaffected by black: adsf"
         "asdfas fdas fdas dfas fdas dfa sfd asdf asdf asdf sdf aasd fasdf"
-        "asdfasdfasdfasdfasdfasdfafdasfdasdfasdfasdfa fafs  asdffasfff asdf asdfa dfadf asdf adf adsf asdf asdf adsf adsf asd fas"
+        "asdfasdfasdfasdfasdfasdfafdasfdasdfasdfasdfa fafs  asdffasfff asdf asdfa "
+        "dfadf asdf adf adsf asdf asdf adsf adsf asd fas"
     )
     print(S)
